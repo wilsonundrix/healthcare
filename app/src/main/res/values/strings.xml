@@ -1,0 +1,22 @@
+<resources>
+    <!--For login Screen-->
+    <string name="app_name">Health Care</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="username">Username :</string>
+    <string name="password">Password : </string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="press_login_btn">You clicked the login button</string>
+    <string name="press_fgt_psw_btn">You clicked the Forgot Password button</string>
+    <string name="press_sign_up_btn">You clicked the Sign Up button</string>
+    <!--For login Screen-->
+
+    <!--Dashboard Screen-->
+    <string name="help">HOW CAN WE HELP YOU ?</string>
+    <string name="find_doc">FIND DOCTOR</string>
+    <string name="book_app">BOOK APPOINTMENT</string>
+    <string name="take_app">TAKE APPOINTMENT</string>
+    <!--Dashboard Screen-->
+
+    <string name="app_details">APPOINTMENT DETAILS</string>
+</resources>
